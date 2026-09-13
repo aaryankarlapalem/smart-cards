@@ -1,1 +1,2 @@
 #include "ephemeral/Flutter-Generated.xcconfig"
+FLUTTER_TARGET = $(FLUTTER_APPLICATION_PATH)/lib/main.dart
